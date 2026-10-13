@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "MyPoints",
+    "slug": "mypoints-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mypoints.mobile"
+    },
+    "android": {
+      "package": "com.mypoints.mobile"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
